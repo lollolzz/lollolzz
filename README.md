@@ -1,15 +1,17 @@
 
 Hi there!&nbsp;👋
 
-I'm a ***Backend Web Developer*** who loves to *design products* as well.
+I'm a ***Backend Web Developer*** who loves to *design DataBase* as well.
 
-I studied a ***visual communication design*** at the uni and used to work as an 🌈***UXUI Designer***🌈&nbsp; at startups.
+I studied a *** Department English & Economics **
 
 Currently studying for academy 🛍, in *** Busan, South Korea 🇰🇷***
 
 Interested in ***Jquery, SpringBoot *** these days...
 
 And yeah, I'm a traveller! Can't wait till the next trip 🧚 &nbsp;! ~~(f**k COVID19!)~~
+
+Actually, My Git page retouching!!
 
 ## My blog
 

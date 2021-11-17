@@ -13,7 +13,7 @@ And yeah, I'm a traveller! Can't wait till the next trip 🧚 &nbsp;! ~~(f**k CO
 
 ## My blog
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdoeun&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollolzz&show_icons=true&theme=dracula)
 
 
 <!--

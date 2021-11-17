@@ -15,7 +15,7 @@ And yeah, I'm a lunatic traveller! Can't wait till the next trip 🧚 &nbsp;! ~~
 
 ## My blog
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeonjinha&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdoeun&show_icons=true&theme=dracula)
 
 
 <!--

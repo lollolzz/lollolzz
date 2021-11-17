@@ -1,17 +1,15 @@
 
 Hi there!&nbsp;👋
 
-I'm a ***Frontend Web Developer*** who loves to *design products* as well.
+I'm a ***Backend Web Developer*** who loves to *design products* as well.
 
 I studied a ***visual communication design*** at the uni and used to work as an 🌈***UXUI Designer***🌈&nbsp; at startups.
 
 Currently studying for academy 🛍, in *** Busan, South Korea 🇰🇷***
 
-Interested in ***TypeScript, React, Recoil, Angular***, these days...
+Interested in ***Jquery, SpringBoot *** these days...
 
-And yeah, I'm a lunatic traveller! Can't wait till the next trip 🧚 &nbsp;! ~~(f**k COVID19!)~~
-
-### 🇬🇧 🇺🇸 🇪🇸 🇨🇭 🇲🇨 🇯🇵 🇫🇷 🇩🇪 🇨🇦 🇲🇲 🇮🇹 🇨🇿 🇦🇹 🇨🇳 🇵🇭 🇭🇰 🇩🇰 🇧🇪 🇳🇱 🇵🇹 🇹🇼 🇻🇳 🇲🇨 
+And yeah, I'm a traveller! Can't wait till the next trip 🧚 &nbsp;! ~~(f**k COVID19!)~~
 
 ## My blog
 

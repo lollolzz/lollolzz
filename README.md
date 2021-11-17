@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=Hiya!%20I'm%20Mia%20;\)%20🌷&fontAlignY=45&desc=a%20frontend%20developer%20who%20loves%20designing%20products&descSize=25&descAlignY=75&fontSize=60&animation=twinkling)
-
 
 Hi there!&nbsp;👋
 

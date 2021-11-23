@@ -24,7 +24,7 @@
   <br/><br/><br/>
 
 <!-- Commit 등급 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollolzz&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollolzz&show_icons=true&theme=radical)
 </div>
 <!--
 Here are some ideas to get you started:

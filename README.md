@@ -22,12 +22,12 @@
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
   <br/><br/><br/>
-</div>
+
 <!-- Commit 등급 -->
 [![lollolzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollolzz&show_icons=true&theme=white)](https://github.com/lollolzz/lollolzz)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lollolzz&layout=compacht&theme=white)](https://github.com/lollolzz?tab=repositories&q=&type=&language=java&sort=)
 
-
+</div>
 <!--
 Here are some ideas to get you started:
 

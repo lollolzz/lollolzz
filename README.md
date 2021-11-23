@@ -24,8 +24,9 @@
   <br/><br/><br/>
 
 <!-- Commit 등급 -->
-![lollolzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollolzz&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lollolzz&layout=compacht)
+[![lollolzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollolzz&show_icons=true&theme=white)](https://github.com/lollolzz/lollolzz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lollolzz&layout=compacht&theme=white)](https://github.com/lollolzz?tab=repositories&q=&type=&language=java&sort=)
+
 </div>
 <!--
 Here are some ideas to get you started:

@@ -7,15 +7,16 @@
 
   
 ---
+
  <a href="https://github.com/lollolzz/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=lollolzz&langs_count=10&layout=compact&theme=white" width=49.2%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lollolzz&langs_count=10&layout=compact&theme=nord" width=49.2%/>
 </a>
 <a href="https://github.com/lollolzz/github-readme-streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lollolzz&theme=white&date_format=M%20j%5B%2C%20Y%5D" width=49.2% />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lollolzz&theme=nord&date_format=M%20j%5B%2C%20Y%5D" width=49.2% />
 </a>
 <a href="https://github.com/lollolzz/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=lollolzz&theme=minimal" width=98%/>
-</a>
+<img src="https://activity-graph.herokuapp.com/graph?username=lollolzz&theme=nord" width=98%/>
+</a> 
  
  
  

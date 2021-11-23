@@ -2,14 +2,12 @@
    <h1><strong>Hi there!👋</strong></h1>
 
 <!-- Me -->
-#### ME</br>
-======================
+### ME</br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lollolzz1018@gmail.com)](mailto:lollolzz1018@gmail.com)
 
 <!-- Tech Stack-->
-Tech Stack</br>
-======================
+### Tech Stack</br>
 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>

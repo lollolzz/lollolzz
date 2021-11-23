@@ -11,10 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lollolzz&langs_count=10&layout=compact&theme=white" width=49.2%/>
 </a>
 <a href="https://github.com/lollolzz/github-readme-streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lollolzz&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D" width=49.2% />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lollolzz&theme=white&date_format=M%20j%5B%2C%20Y%5D" width=49.2% />
 </a>
 <a href="https://github.com/lollolzz/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=lollolzz&theme=react-dark&bg_color=20232a&hide_border=true&line=AB90E8&color=C691E9C9" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=lollolzz&theme=minimal" width=98%/>
 </a>
  
  

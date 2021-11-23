@@ -25,7 +25,7 @@
 
 <!-- Commit 등급 -->
 ![lollolzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lollolzz&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lollolzz&layout=compacht&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lollolzz&layout=compacht&theme=merko){: width="100" height="100"}
 </div>
 <!--
 Here are some ideas to get you started:

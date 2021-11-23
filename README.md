@@ -2,7 +2,7 @@
    <h1><strong>Hi there!👋</strong></h1>
 
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lollolzz1018@gmail.com)](mailto:lollolzz1018@gmail.com)
 
 <!-- Tech Stack-->
 Tech Stack</br>

@@ -4,7 +4,7 @@
 
 ### Welcome to my Github!👋 
 
-<a href="https://lollolzz.github.io" target="_blank">
+<a href="https://github.com/lollolzz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=Github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="lollolzz1018@gmail.com">

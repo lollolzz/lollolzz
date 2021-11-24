@@ -7,8 +7,9 @@
 <a href="https://github.com/lollolzz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=Github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="lollolzz1018@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&" />
+<a href="mailto:lollolzz@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lollolzz@gmail.com"/>
+</a>
 
 ## Language & Tools
  

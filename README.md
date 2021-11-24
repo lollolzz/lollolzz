@@ -3,7 +3,6 @@
 </div> 
 
 ### Welcome to my Github!👋 
-#### Hi there, I' NeungHan Kwon
 
 <a href="https://lollolzz.github.io" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=Gmail&logoColor=white alt=github style="margin-bottom: 5px;" />

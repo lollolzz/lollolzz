@@ -2,6 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=lollolzz&style=flat-square" align="right" />
 </div> 
 
+<div align="center">
 ### Welcome to my Github!👋 
 
 <a href="https://github.com/lollolzz" target="_blank">
@@ -10,7 +11,7 @@
 <a href="mailto:lollolzz@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lollolzz@gmail.com"/>
 </a>
-
+</div>
 ## Language & Tools
  
 <div sttyle='float:left'>

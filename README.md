@@ -10,6 +10,11 @@
 <a href="mailto:lollolzz@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lollolzz@gmail.com"/>
 </a>
+<br>
+<a href="http://13.209.9.24:8080/AJAX" target="_blank">
+<img src=https://img.shields.io/badge/AjaxShoppingMall-26689A?&style=flat-square&logo=Shopify&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
 
 ## Language & Tools
  

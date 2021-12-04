@@ -10,10 +10,17 @@
 <a href="mailto:lollolzz@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lollolzz@gmail.com"/>
 </a>
+
+##### Project
+<a href="http://13.209.9.24:8080/Farmstory" target="_blank">
+<img src=https://img.shields.io/badge/Farmstory-6DB33F?&style=flat-square&logo=Leaflet&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <br>
 <a href="http://13.209.9.24:8080/AJAX" target="_blank">
-<img src=https://img.shields.io/badge/AjaxShoppingMall-26689A?&style=flat-square&logo=Shopify&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/AjaxShoppingMall-4479A1?&style=flat-square&logo=Shopify&logoColor=white alt=Shoppingmall-Project style="margin-bottom: 5px;" />
 </a>
+<br>
+
 
 
 ## Language & Tools

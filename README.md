@@ -1,6 +1,3 @@
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=lollolzz&style=flat-square" align="right" />
-</div> 
 
 ### Welcome to my Github!👋 
 

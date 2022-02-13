@@ -1,15 +1,12 @@
 
-### Welcome to my Github!🤔😄
+## Welcome to my Github!🤔😄
 
-<a href="mailto:lollolzz@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lollolzz@gmail.com"/>
+#### About me
+<a href="http://13.209.9.24:8080/Farmstory" target="_blank">
+<img src=https://img.shields.io/badge/MyPage-000000?style=for-the-badge&logo=flask&logoColor=white alt=My self style="margin-bottom: 5px;" />
 </a>
-<br>
 
-## About me
-
-
-## project 
+#### project 
 <a href="http://13.209.9.24:8080/Kmarket" target="_blank">
 <img src=https://img.shields.io/badge/Kmarket-F5CD0E?&style=flat-square&logo=Klarna&logoColor=white alt=Kmarket style="margin-bottom: 5px;" />
 </a>
@@ -22,9 +19,9 @@
 <img src=https://img.shields.io/badge/Farmstory[CommunityWebsite]-6DB33F?&style=flat-square&logo=Leaflet&logoColor=white alt=Farmstory style="margin-bottom: 5px;" />
 </a>
 
-## Language & Tools
+#### Language & Tools
  
-<div sttyle='float:left'>
+<div style='float:left'>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>

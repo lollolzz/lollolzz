@@ -1,12 +1,12 @@
 
 ## Welcome to my Github!🤔😄
 
-#### About me
+#### About me(click)
 <a href="https://lollolzz.github.io/web-Portfolio/" target="_blank">
-<img src=https://img.shields.io/badge/MyPage-000000?style=for-the-badge&logo=flask&logoColor=white alt=My self style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Mystory-000000?style=for-the-badge&logo=flask&logoColor=white alt=My self style="margin-bottom: 5px;" />
 </a>
 
-#### project 
+#### project(click) 
 <a href="http://13.209.9.24:8080/Kmarket" target="_blank">
 <img src=https://img.shields.io/badge/Kmarket-F5CD0E?&style=flat-square&logo=Klarna&logoColor=white alt=Kmarket style="margin-bottom: 5px;" />
 </a>

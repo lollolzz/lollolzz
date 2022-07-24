@@ -6,7 +6,7 @@
 <img src=https://img.shields.io/badge/Mystory-000000?style=for-the-badge&logo=flask&logoColor=white alt=My self style="margin-bottom: 5px;" />
 </a> -->
 
-#### project(click) 
+<!-- #### project(click) 
 <a href="http://13.209.9.24:8080/Kmarket" target="_blank">
 <img src=https://img.shields.io/badge/Kmarket-F5CD0E?&style=flat-square&logo=Klarna&logoColor=white alt=Kmarket style="margin-bottom: 5px;" />
 </a>
@@ -17,7 +17,7 @@
 <br>
 <a href="http://13.209.9.24:8080/Farmstory" target="_blank">
 <img src=https://img.shields.io/badge/Farmstory[CommunityWebsite]-6DB33F?&style=flat-square&logo=Leaflet&logoColor=white alt=Farmstory style="margin-bottom: 5px;" />
-</a>
+</a> -->
 
 #### Language & Tools
  
